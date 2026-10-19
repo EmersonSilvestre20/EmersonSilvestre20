@@ -12,7 +12,7 @@
 
 ## 👋 Sobre Mim
 
-Sou **Bartolomeu Emerson da Silva Justino**, desenvolvedor **FullStack** com mais de **3 anos de experiência** a construir soluções digitais robustas, escaláveis e eficientes. Baseado em **Luanda, Angola**, atualmente faço parte da equipa técnica da **SaudeMais / GPS Angola**, onde contribuo activamente para plataformas de saúde e rastreamento veicular.
+Sou **Bartolomeu Emerson da Silva Justino**, desenvolvedor **FullStack** com mais de **3 anos de experiência** a construir soluções digitais robustas, escaláveis e eficientes. Baseado em **Luanda, Angola**, atualmente faço parte da equipa técnica da **SaudeMais**, onde contribuo activamente para plataformas de saúde e rastreamento veicular.
 
 Apaixonado por arquitecturas modernas, APIs de alta performance e integração de sistemas complexos. Tenho entregado soluções que vão desde microserviços de pagamento até plataformas de gestão hospitalar.
 
